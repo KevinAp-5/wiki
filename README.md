@@ -1,4 +1,4 @@
 # wiki
-Wikipedia search in cli
+Wikipedia search in CLI
 
-![](https://github.com/KevinAp-5/wiki/blob/main/image.png?raw=true)
+![Example](https://github.com/KevinAp-5/wiki/blob/main/image.png?raw=true)
